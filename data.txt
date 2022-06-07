@@ -1,0 +1,4 @@
+Updata a webpage without reloading the page
+Request data from server
+Receive data from server
+Send data to server
